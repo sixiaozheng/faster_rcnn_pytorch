@@ -1,5 +1,7 @@
 # A *Faster* Pytorch Implementation of Faster R-CNN
 
+## I fix all bugs of the original code, and now you can run all codes in PyTorch==0.4.0. Thanks the authors of the original code.
+
 ## Introduction
 
 ### :boom: Good news! This repo supports pytorch-1.0 now!!! We borrowed some code and techniques from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark). Just go to pytorch-1.0 branch!
